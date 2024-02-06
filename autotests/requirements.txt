@@ -1,3 +1,4 @@
 pytest
-webdriver-manager
 selenium
+webdriver-manager
+allure-pytest
